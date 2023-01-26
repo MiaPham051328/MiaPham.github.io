@@ -13,6 +13,7 @@ h1{
 header{
     width: 100%;
     background-color: blue;
+    border:1px;
     height: 100px;
     padding: 20px;
     color:white;
@@ -28,7 +29,7 @@ nav{
 }
 
 aside{
-    width:300px;
+    width:250px;
     height:500px;
     padding:10px;
     background:#dedede;
@@ -44,7 +45,7 @@ article{
 section{
     BACKGROUND: pink;
     padding:20px;
-
+    margin:20px;
 }
 
 footer{

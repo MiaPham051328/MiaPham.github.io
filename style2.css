@@ -12,10 +12,8 @@ td{
     background: gray; 
 }
 
-
-
-
 thead, tfoot{
-    backgound:black;
+    background:black;
     color:white;
+    width:100%;
 }

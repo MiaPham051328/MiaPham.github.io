@@ -70,3 +70,24 @@ img{
     border:5px solid pink;
     border-radius: 50%;
 }
+
+.div.green{
+ background: lightgreen;
+ width:300px;
+ height: 400px;
+ position :absolute;
+ top:300px;
+ right:25px;
+}
+
+div.myclass{
+    background: pink;
+}
+
+.button{
+background:lightblue;
+padding:25px;
+border: 1px solid hotpink;
+color:hotpink;
+font-family: bold;
+}

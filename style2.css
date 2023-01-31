@@ -1,0 +1,21 @@
+table{
+    border:1px solid black;
+}
+
+tr{
+
+}
+
+td{
+    border:1px solid black;  
+    width:100%;
+    background: gray; 
+}
+
+
+
+
+thead, tfoot{
+    backgound:black;
+    color:white;
+}

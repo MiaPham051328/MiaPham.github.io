@@ -108,3 +108,8 @@ border-radius: 5px;
 button:hover{
     background:blue;
 }
+
+::selection{
+    color:red;
+    background:yellow;
+}

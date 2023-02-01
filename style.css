@@ -88,7 +88,11 @@ div.myclass{
     background: pink;
 }
 
-.button{
+div.myclass2{
+border:5px solid #000;
+}
+
+button{
 background:lightblue;
 padding:25px;
 border: 1px solid hotpink;

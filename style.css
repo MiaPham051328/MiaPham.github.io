@@ -75,7 +75,7 @@ a{
     color:white;
 }
 
-div.green{
+.div.green{
  background: lightgreen;
  width:300px;
  height: 400px;
@@ -84,12 +84,16 @@ div.green{
  right:25px;
 }
 
-div.myclass{
+.div.myclass{
     background: pink;
 }
 
 div.class2{
 border:5px solid #000;
+}
+
+#bg{
+background:red;
 }
 
 button{

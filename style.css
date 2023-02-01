@@ -97,8 +97,8 @@ background:red;
 }
 
 button{
-background:lightblue;
-padding:25px;
+background:pink;
+padding:5px 25px 5px 25px;
 border: 1px solid hotpink;
 color:hotpink;
 font-family: bold;

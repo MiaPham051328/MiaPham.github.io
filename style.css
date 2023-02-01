@@ -113,3 +113,7 @@ button:hover{
     color:red;
     background:yellow;
 }
+
+a:hover{
+    color:red;
+}

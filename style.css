@@ -23,7 +23,7 @@ header{
 
 nav{
     width:100%;
-    background:lightblue;
+    background:black;
     height:40px;
     padding:10px;
 }
@@ -71,6 +71,9 @@ img{
     border-radius: 50%;
 }
 
+a{
+    color:white;
+}
 .div.green{
  background: lightgreen;
  width:300px;

@@ -104,3 +104,7 @@ color:hotpink;
 font-family: bold;
 border-radius: 5px;
 }
+
+button:hover{
+    background:blue;
+}

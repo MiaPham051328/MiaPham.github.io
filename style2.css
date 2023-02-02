@@ -21,7 +21,7 @@ thead, tfoot{
 
 }
 
-.tableDiv{
+#tableDiv{
 background:yellow;
 padding:20px;
 }

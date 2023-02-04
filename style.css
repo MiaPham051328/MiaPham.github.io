@@ -4,10 +4,12 @@ body{
 }
 
 h1,h2,h3,h4,h5,h6{
-    color:blue;
-    letter-spacing:2px;
+    color: crimson;
 }
 
+a{
+    color:darkblue
+}
 img{
     max-width:300px;
     padding: 10px;
